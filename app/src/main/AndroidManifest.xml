@@ -20,7 +20,7 @@
         </activity>
 
         <meta-data
-            android:name="com.cuelinks.channelId"
+            android:name="com.cuelinks.185885"
             android:value="123456" />
         <meta-data
             android:name="com.cuelinks.subId"
